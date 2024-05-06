@@ -2,4 +2,4 @@ Input the # of items you want to check out from the Line, has to be a non negati
 
 Input the Grocery Item and the price for the item.
 
-Once you exit, the list prints out everything you input and the price to the 2nd decimal place.
+Once you exit, the code prints out everything you input and the price for each input to the 2nd decimal place.
