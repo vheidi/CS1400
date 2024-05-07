@@ -1,4 +1,6 @@
-Input the # of items you want to check out from the Line, has to be a non negative natural number.
+Input the # of items you want to check out from the Line, has to be a non negative natural number  
+
+if you input something other than a positive natural number, the program returns an error exception stating you must input a valid command in order for the program to function
 
 Input the Grocery Item and the price for the item.
 
